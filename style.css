@@ -69,13 +69,14 @@ nav .section{
 
 div.info{
   background-color: white;
-  height: 580px;
+  height: 750px;
   margin-top: 3px;
   border-bottom-right-radius: 10px;
   border-bottom-left-radius: 10px;
   padding: 18px;
   text-align: left;
   padding-left: 80px;
+  margin-bottom: 20px;
 }
 
 h2{
@@ -111,4 +112,70 @@ h2{
   border-radius: 50%;
   vertical-align: middle;
 
+}
+
+.editorial{
+    display: inline-block;
+    background-color: #21a9f8;
+    height: 35px;
+    width: 100px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+}
+
+.Q1{
+  display: inline-block;
+  background-color: #8b2be6;
+  height: 35px;
+  width: 100px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 20px;
+  color: white;
+}
+
+.recruiting{
+  display: inline-block;
+  background-color: #159ea3;
+  height: 35px;
+  width: 100px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 20px;
+  color: white;
+}
+
+.mobile{
+  display: inline-block;
+  background-color: #f0a038;
+  height: 35px;
+  width: 100px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 20px;
+  color: white;
+}
+
+.website{
+  display: inline-block;
+  background-color: #cf519f;
+  height: 35px;
+  width: 100px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 20px;
+  color: white;
+}
+
+.sales{
+  display: inline-block;
+  background-color: #91b932;
+  height: 35px;
+  width: 100px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 20px;
+  color: white;
 }
